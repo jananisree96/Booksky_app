@@ -9,5 +9,5 @@ Booksky is a minimalist web application designed for managing your book collecti
 - **Customizable**: Personalize your collection by adding book titles, authors, and brief descriptions.
 - **User-friendly Popup**: Seamlessly add new books to your collection through a convenient popup interface.
 
-Whether you're an avid reader or just starting your literary journey, Booksky is the perfect companion for keeping track of your favorite books.
+Whether you're an avid reader or just starting your literary journey, Booksky is the perfect companion for keeping track of your favorite books...
 
